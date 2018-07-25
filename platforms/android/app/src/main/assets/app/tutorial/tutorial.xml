@@ -1,0 +1,15 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" xmlns:Slides="nativescript-slides" loaded="onLoaded" navigatedTo="onNavigatedTo">
+    
+     <Slides:SlideContainer id="slides" pageIndicators="true">
+            <Slides:Slide class="slide">
+                <Label text="Set the time you will need between your meals" />
+            </Slides:Slide>
+            <Slides:Slide class="slide">
+                <Label text="Tap Done when you have finished a meal"  />
+            </Slides:Slide>
+            <Slides:Slide class="slide">
+                <Label text="Finish"  />
+            </Slides:Slide>
+    </Slides:SlideContainer>
+
+</Page>

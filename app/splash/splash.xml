@@ -1,0 +1,13 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo">
+
+    <StackLayout orientation="vertical"  backgroundColor="green">
+    <Label text="" width="50" height="50"/>
+    <Image src="~/images/eat7.jpeg" stretch="fill"  width="200" height="200" />
+    
+    <Label text="Eat 7" class="title" textWrap="true" class="title"/>
+    <Label text="Your friend at eating the right food at the right time"/>
+    
+  </StackLayout>
+
+
+</Page>

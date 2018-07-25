@@ -1,0 +1,30 @@
+{
+	"time": "Wed Jul 25 2018 20:31:29 GMT+0300 (EEST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "24179d4f7312e84a47fc145677932da43d18431c11271ff967189da1983af1ef",
+	"changesRequireBuildTime": "Mon Jul 23 2018 21:29:57 GMT+0300 (EEST)",
+	"appFilesHashes": {
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/tutorial/tutorial-view-model.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/app-root.xml": "b67e9b5c2db47c00a7e5338e16566ebb8c6d66d0",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/app.css": "bd47ea73461dcbbeb4e96f06f98e8d01969cc730",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/app.js": "67b964aab29dc81ba5edf8bcfd85a6ce41e768bc",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/bundle-config.js": "d17c2570811747318a75d48cef336b3c2945cf07",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/dashboard/dashboard-view-model.js": "59cca5c07a8d80d9e69a340d551a3ca462bcf726",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/dashboard/dashboard.js": "3443f7f616543d8e99eda4e777ac7d3782ae52e7",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/dashboard/dashboard.xml": "5987503b8b9836dd2d336e3d1d84ade1de90ed52",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/images/eat7.jpeg": "0bf200a72f75a15d24a3950614eca6c1f031028a",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/main-page.js": "e3dfd3fc75a4d41d3c3ea69bbfc2e52159919e19",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/main-page.xml": "dadb79414737be842940881ad61a8bed20080077",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/main-view-model.js": "f977a52b4fb31fe984415623f7597e914c24750d",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/package.json": "76d2f371ccaf38f64ed764513b2b13292c218382",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/splash/splash-view-model.js": "9a18d2d84f10e705626e73cffeb986f450e065a5",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/splash/splash.js": "19813a9e0ece1bf1021dee4b2f0255e1cb774a3c",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/splash/splash.xml": "38e60d87a09c56cd77ea869e216d3cc3b0dde5c2",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/tutorial/tutorial.js": "7b2383019415f9c0efb90489f4b3508a4877e208",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/tutorial/tutorial.xml": "595b98d6025194324aed695218907b9d8a83cdf6"
+	}
+}

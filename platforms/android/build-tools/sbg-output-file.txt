@@ -1,0 +1,1 @@
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/java

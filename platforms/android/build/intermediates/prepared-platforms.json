@@ -1,0 +1,7 @@
+{
+    "nativescript-slides": true,
+    "nativescript-theme-core": true,
+    "tns-core-modules": true,
+    "nativescript-dom": true,
+    "tns-core-modules-widgets": true
+}

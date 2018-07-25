@@ -1,0 +1,17 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo">
+    <Page.actionBar>
+        <ActionBar title="Eat7" icon="~/images/eat7.jpeg">
+            <NavigationButton text="Back" icon="" tap="" />
+            <ActionBar.actionItems>
+                <ActionItem icon="" text="Settings" tap="{{ onSettingsTap }}" ios.position="right" />
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+
+<StackLayout >
+        <Label text="Tap the button to notify of a finished meal"/>
+        <Button text="TAP" tap="{{ onTap }}" class="btn btn-primary btn-active"/>
+        <Label text="{{ message }}"  textWrap="true"/>
+    </StackLayout>
+
+</Page>
