@@ -1,5 +1,5 @@
 {
-	"time": "Wed Jul 25 2018 20:31:29 GMT+0300 (EEST)",
+	"time": "Wed Jul 25 2018 21:01:28 GMT+0300 (EEST)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
@@ -12,7 +12,7 @@
 		"/home/fallenstar/Develop/NativeScript/Eat7/app/app.css": "bd47ea73461dcbbeb4e96f06f98e8d01969cc730",
 		"/home/fallenstar/Develop/NativeScript/Eat7/app/app.js": "67b964aab29dc81ba5edf8bcfd85a6ce41e768bc",
 		"/home/fallenstar/Develop/NativeScript/Eat7/app/bundle-config.js": "d17c2570811747318a75d48cef336b3c2945cf07",
-		"/home/fallenstar/Develop/NativeScript/Eat7/app/dashboard/dashboard-view-model.js": "59cca5c07a8d80d9e69a340d551a3ca462bcf726",
+		"/home/fallenstar/Develop/NativeScript/Eat7/app/dashboard/dashboard-view-model.js": "cd9b3bf1aba601a02298da92791c1f0367cf358f",
 		"/home/fallenstar/Develop/NativeScript/Eat7/app/dashboard/dashboard.js": "3443f7f616543d8e99eda4e777ac7d3782ae52e7",
 		"/home/fallenstar/Develop/NativeScript/Eat7/app/dashboard/dashboard.xml": "5987503b8b9836dd2d336e3d1d84ade1de90ed52",
 		"/home/fallenstar/Develop/NativeScript/Eat7/app/images/eat7.jpeg": "0bf200a72f75a15d24a3950614eca6c1f031028a",

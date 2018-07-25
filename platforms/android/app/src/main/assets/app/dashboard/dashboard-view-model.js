@@ -9,7 +9,7 @@ function createViewModel(){
     viewModel.onTap = function onTap(){
            var lastTap = new Date().getMilliseconds()
            appSettings.setNumber("lastTap", lastTap)
-           viewModel.message = getMessage(lastTap);
+           viewModel.set("message", getMessage(lastTap));
     }
 
     viewModel.onSettngsTap = function onSettingsTap(){
