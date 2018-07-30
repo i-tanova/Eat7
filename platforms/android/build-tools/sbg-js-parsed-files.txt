@@ -1,4 +1,6 @@
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/app.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/settings/settings-view-model.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/settings/settings.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/main-view-model.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tutorial/tutorial.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tutorial/tutorial-view-model.js
@@ -158,7 +160,18 @@
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/xml/xml.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/connectivity/connectivity.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/matrix/matrix.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/facebook-access-token.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/ui/login-button.common.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/ui/login-button.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/login-behavior.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/login-event-data.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/login-manager.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/hooks/before-livesync/nativescript-angular-sync.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/index.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-facebook/login-response.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/tns_modules/nativescript-dom/dom.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/dashboard/dashboard-view-model.js
+/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/dashboard/dashboard.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/bundle-config.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/splash/splash.js
 /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/assets/app/splash/splash-view-model.js

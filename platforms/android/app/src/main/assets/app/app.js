@@ -9,6 +9,12 @@ var application = require("application");
 const frameModule = require("tns-core-modules/ui/frame");
 frameModule.Frame.defaultTransition = { name: "flipLeft" };
 
+var facebookModule = require("nativescript-facebook");
+
+application.on(application.launchEvent, function (args) {
+    facebookModule.init("513233832451187");
+});
+
 application.run({ moduleName: "app-root" });
 
 /*

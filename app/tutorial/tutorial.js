@@ -8,6 +8,7 @@ function onNavigatedTo(args) {
 }
 
 function onSlideFinished() {
+    
     frameModule.topmost().navigate(
         {
             moduleName: "dashboard/dashboard",

@@ -1,0 +1,21 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo" xmlns:Facebook="nativescript-facebook">
+    <Page.actionBar>
+        <ActionBar title="Settings" icon="">
+        
+        </ActionBar>
+    </Page.actionBar>
+
+
+<StackLayout>
+     <GridLayout columns="300, *" rows="100" >
+    <Label text="Set time between meals" col="0" row="0"/>
+    <TextField hint="" text="{{ timeBetweenMeals}}"  col="1" row="0" keyboardType="number" maxLength="2"/>
+   </GridLayout>
+
+
+<Facebook:LoginButton login="{{ onLogin }}"></Facebook:LoginButton>
+</StackLayout>
+   
+
+    
+</Page>

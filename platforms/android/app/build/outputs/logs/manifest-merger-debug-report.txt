@@ -4,18 +4,22 @@ ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/
 INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
 INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
 INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:21:1-50:12
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/313948251aabb3436a3bb8f0a35058da/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:multidex:1.0.2] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6a01f72f0adf3bbe5848e4f84ffc2388/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/952f91765a94cd3c6a657fe226bed930/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/dcf513e2691011d87c1abd239b09fe46/AndroidManifest.xml:17:1-31:12
 MERGED from [:nativescript-optimized-with-inspector:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/0f0aff77f0597213b37865880744b2d4/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_facebook:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript_facebook.aar/ad57addd5927fd54150b42e23aad28fc/AndroidManifest.xml:2:1-11:12
 MERGED from [:widgets-release:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/c282700ba3d8094af637f12a22f4039b/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/96d42b740157eae6cf9910c648838e80/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:customtabs:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/customtabs-25.0.0.aar/19f1ccc9c03d5f70d17fa505dc62dafd/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/5a24fae54ce8c97a391c8c473b47c935/AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e76d7b778edbfe3079f50c4ed5613a01/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/b935c8872e7772f20f425120a8c12819/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95f215170a8a86bd8eb6bec40e8a5c59/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/ad581586151ee9b84c43ecbb2bb82628/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3948fa95cfe411f5320be7b5903d27e9/AndroidManifest.xml:17:1-31:12
@@ -50,30 +54,38 @@ uses-sdk
 ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
 INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/313948251aabb3436a3bb8f0a35058da/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/313948251aabb3436a3bb8f0a35058da/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:multidex:1.0.2] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6a01f72f0adf3bbe5848e4f84ffc2388/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/6a01f72f0adf3bbe5848e4f84ffc2388/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/952f91765a94cd3c6a657fe226bed930/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/952f91765a94cd3c6a657fe226bed930/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/dcf513e2691011d87c1abd239b09fe46/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/dcf513e2691011d87c1abd239b09fe46/AndroidManifest.xml:21:5-23:54
 MERGED from [:nativescript-optimized-with-inspector:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/0f0aff77f0597213b37865880744b2d4/AndroidManifest.xml:7:5-9:41
 MERGED from [:nativescript-optimized-with-inspector:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/0f0aff77f0597213b37865880744b2d4/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_facebook:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript_facebook.aar/ad57addd5927fd54150b42e23aad28fc/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_facebook:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript_facebook.aar/ad57addd5927fd54150b42e23aad28fc/AndroidManifest.xml:7:5-47
 MERGED from [:widgets-release:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/c282700ba3d8094af637f12a22f4039b/AndroidManifest.xml:7:5-9:41
 MERGED from [:widgets-release:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/c282700ba3d8094af637f12a22f4039b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/96d42b740157eae6cf9910c648838e80/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/96d42b740157eae6cf9910c648838e80/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/customtabs-25.0.0.aar/19f1ccc9c03d5f70d17fa505dc62dafd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/customtabs-25.0.0.aar/19f1ccc9c03d5f70d17fa505dc62dafd/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/5a24fae54ce8c97a391c8c473b47c935/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/5a24fae54ce8c97a391c8c473b47c935/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e76d7b778edbfe3079f50c4ed5613a01/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e76d7b778edbfe3079f50c4ed5613a01/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/b935c8872e7772f20f425120a8c12819/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/b935c8872e7772f20f425120a8c12819/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95f215170a8a86bd8eb6bec40e8a5c59/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95f215170a8a86bd8eb6bec40e8a5c59/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/ad581586151ee9b84c43ecbb2bb82628/AndroidManifest.xml:20:5-44
@@ -91,6 +103,7 @@ INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/s
 	android:minSdkVersion
 		ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
 		INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
 		INJECTED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
@@ -102,28 +115,36 @@ ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/
 		ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
 uses-permission#android.permission.INTERNET
 ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+MERGED from [:nativescript_facebook:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript_facebook.aar/ad57addd5927fd54150b42e23aad28fc/AndroidManifest.xml:9:5-67
+MERGED from [:nativescript_facebook:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/nativescript_facebook.aar/ad57addd5927fd54150b42e23aad28fc/AndroidManifest.xml:9:5-67
 	android:name
 		ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
 application
 ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:28:5-48:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:28:5-48:19
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/313948251aabb3436a3bb8f0a35058da/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/313948251aabb3436a3bb8f0a35058da/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/952f91765a94cd3c6a657fe226bed930/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/952f91765a94cd3c6a657fe226bed930/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/dcf513e2691011d87c1abd239b09fe46/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/dcf513e2691011d87c1abd239b09fe46/AndroidManifest.xml:29:5-20
 MERGED from [:widgets-release:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/c282700ba3d8094af637f12a22f4039b/AndroidManifest.xml:11:5-12:19
 MERGED from [:widgets-release:] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/c282700ba3d8094af637f12a22f4039b/AndroidManifest.xml:11:5-12:19
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/96d42b740157eae6cf9910c648838e80/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/96d42b740157eae6cf9910c648838e80/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/customtabs-25.0.0.aar/19f1ccc9c03d5f70d17fa505dc62dafd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/customtabs-25.0.0.aar/19f1ccc9c03d5f70d17fa505dc62dafd/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e76d7b778edbfe3079f50c4ed5613a01/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e76d7b778edbfe3079f50c4ed5613a01/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/b935c8872e7772f20f425120a8c12819/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/b935c8872e7772f20f425120a8c12819/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95f215170a8a86bd8eb6bec40e8a5c59/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95f215170a8a86bd8eb6bec40e8a5c59/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/ad581586151ee9b84c43ecbb2bb82628/AndroidManifest.xml:26:5-20
@@ -170,24 +191,44 @@ activity#com.tns.ErrorReportActivity
 ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
 	android:name
 		ADDED from /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.22.0.aar/b438541428e8ed356ae690358c9dfc17/AndroidManifest.xml:45:13-70
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/313948251aabb3436a3bb8f0a35058da/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/952f91765a94cd3c6a657fe226bed930/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/952f91765a94cd3c6a657fe226bed930/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/dcf513e2691011d87c1abd239b09fe46/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/dcf513e2691011d87c1abd239b09fe46/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/5a24fae54ce8c97a391c8c473b47c935/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/5a24fae54ce8c97a391c8c473b47c935/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e76d7b778edbfe3079f50c4ed5613a01/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e76d7b778edbfe3079f50c4ed5613a01/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/b935c8872e7772f20f425120a8c12819/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/b935c8872e7772f20f425120a8c12819/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/8f0fdf476418ce7578b62a3812c377d2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/7b899fac6c134aa7feb09d674259b0ee/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95f215170a8a86bd8eb6bec40e8a5c59/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95f215170a8a86bd8eb6bec40e8a5c59/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/ad581586151ee9b84c43ecbb2bb82628/AndroidManifest.xml:22:5-24:41

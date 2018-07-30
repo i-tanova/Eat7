@@ -1,20 +1,14 @@
 <Page xmlns="http://www.nativescript.org/tns.xsd" xmlns:Slides="nativescript-slides" loaded="onLoaded" navigatedTo="onNavigatedTo">
     
      <Slides:SlideContainer id="slides" pageIndicators="true">
-            <Slides:Slide class="slide-1">
-                <Label text="This is Panel 1"  />
+            <Slides:Slide class="slide">
+                <Label text="Set the time you will need between your meals" />
             </Slides:Slide>
-            <Slides:Slide class="slide-2">
-                <Label text="This is Panel 2"  />
+            <Slides:Slide class="slide">
+                <Label text="Tap Done when you have finished a meal"  />
             </Slides:Slide>
-            <Slides:Slide class="slide-3">
-                <Label text="This is Panel 3"  />
-            </Slides:Slide>
-            <Slides:Slide class="slide-4">
-                <Label text="This is Panel 4"  />
-            </Slides:Slide>
-            <Slides:Slide class="slide-5">
-                <Label text="This is Panel 5"  />
+            <Slides:Slide class="slide">
+                <Label text="Finish"  />
             </Slides:Slide>
     </Slides:SlideContainer>
 

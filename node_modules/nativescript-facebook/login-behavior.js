@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.LoginBehavior = {};
+exports.LoginBehavior.LoginBehaviorNative = 0;
+exports.LoginBehavior.LoginBehaviorBrowser = 1;
+exports.LoginBehavior.LoginBehaviorSystemAccount = 2;
+exports.LoginBehavior.LoginBehaviorWeb = 3;
+exports.LoginBehavior[exports.LoginBehavior.LoginBehaviorNative] = "LoginBehaviorNative";
+exports.LoginBehavior[exports.LoginBehavior.LoginBehaviorBrowser] = "LoginBehaviorBrowser";
+exports.LoginBehavior[exports.LoginBehavior.LoginBehaviorSystemAccount] = "LoginBehaviorSystemAccount";
+exports.LoginBehavior[exports.LoginBehavior.LoginBehaviorWeb] = "LoginBehaviorWeb";

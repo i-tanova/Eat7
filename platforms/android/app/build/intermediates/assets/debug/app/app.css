@@ -20,6 +20,10 @@ components that have the btn class name.
     font-size: 18;
 }
 
+Page{
+    background-color: darkslateblue;
+}
+
 label { 
      color: #ffffff;
      font-size: 18;
@@ -33,4 +37,30 @@ label {
     font-size: 46;
     text-align: center;
     font-family: FontAwesome;
+}
+
+.slide{
+    background-color: darkslateblue;
+  }
+
+  .slide-indicator-inactive{
+    background-color: #fff;
+    opacity : 0.4;
+    width : 10;
+    height : 10;
+    margin-left : 2.5;
+    margin-right : 2.5;
+    margin-top : 0;
+    border-radius : 5;
+}
+ 
+.slide-indicator-active{
+    background-color: #fff;
+    opacity : 0.9;
+    width : 10;
+    height : 10;
+    margin-left : 2.5;
+    margin-right : 2.5;
+    margin-top : 0;
+    border-radius : 5;
 }

@@ -1,4 +1,4 @@
-#Mon Jul 23 21:30:04 EEST 2018
+#Mon Jul 30 22:40:48 EEST 2018
 base.0=/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

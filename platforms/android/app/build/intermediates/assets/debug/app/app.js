@@ -6,6 +6,14 @@ purpose of the file is to pass control to the app’s first module.
 
 require("./bundle-config");
 var application = require("application");
+const frameModule = require("tns-core-modules/ui/frame");
+frameModule.Frame.defaultTransition = { name: "flipLeft" };
+
+var facebookModule = require("nativescript-facebook");
+
+application.on(application.launchEvent, function (args) {
+    facebookModule.init("513233832451187");
+});
 
 application.run({ moduleName: "app-root" });
 

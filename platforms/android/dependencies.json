@@ -1,5 +1,9 @@
 [
     {
+        "name": "nativescript-facebook",
+        "directory": "../../node_modules/nativescript-facebook"
+    },
+    {
         "name": "nativescript-slides",
         "directory": "../../node_modules/nativescript-slides"
     },
