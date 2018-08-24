@@ -4,6 +4,10 @@
         "directory": "../../node_modules/nativescript-facebook"
     },
     {
+        "name": "nativescript-plugin-firebase",
+        "directory": "../../node_modules/nativescript-plugin-firebase"
+    },
+    {
         "name": "nativescript-slides",
         "directory": "../../node_modules/nativescript-slides"
     },

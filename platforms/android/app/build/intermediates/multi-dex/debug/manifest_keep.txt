@@ -1,0 +1,3 @@
+# Referenced at /home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:36
+-keep class com.tns.NativeScriptApplication { <init>(...); }
+

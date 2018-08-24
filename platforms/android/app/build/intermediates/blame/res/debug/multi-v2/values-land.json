@@ -4,7 +4,17 @@
             "outputFile": "/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/313948251aabb3436a3bb8f0a35058da/res/values-land/values-land.xml",
+                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fed710bd4fff6292ad2c5e1a910d3450/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/495ed875a57c56a350af3cf65196a415/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "9",
                         "endColumns": "12",
                         "endOffsets": "505"
-                    }
-                },
-                {
-                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/res/values-land/values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

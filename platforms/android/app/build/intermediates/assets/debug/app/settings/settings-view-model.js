@@ -6,6 +6,7 @@ let facebookModule = require("nativescript-facebook")
 
 function createViewModel(){
     var timeInHours = appSettings.getNumber("timeBetweenMealsInHours")
+  
 
     if(timeInHours){
         viewModel.timeBetweenMeals = timeInHours
@@ -33,6 +34,7 @@ function createViewModel(){
               alert("Error during login: " + err.message);
             } else {
               console.log(fbData.token);
+              appSettings.setString("access_token", fbData.token)
             }
           });
     }

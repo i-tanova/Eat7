@@ -9,6 +9,7 @@ android {
   defaultConfig {  
     generatedDensities = []
     applicationId = "org.nativescript.Eat7" 
+     multiDexEnabled true
     
     //override supported platforms
     // ndk {

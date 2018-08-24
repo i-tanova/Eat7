@@ -4,7 +4,7 @@
             "outputFile": "/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fed710bd4fff6292ad2c5e1a910d3450/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

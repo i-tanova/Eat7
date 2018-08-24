@@ -4,7 +4,7 @@
             "outputFile": "/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/res/values-v23/values-v23.xml",
+                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fed710bd4fff6292ad2c5e1a910d3450/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/96d42b740157eae6cf9910c648838e80/res/values-v23/values-v23.xml",
+                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/840ffdf7c945f41dc279b4344fd81708/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

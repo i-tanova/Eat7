@@ -4,7 +4,26 @@
             "outputFile": "/home/fallenstar/Develop/NativeScript/Eat7/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/dc127e4457517f881dba7a41efa38d61/res/values-v16/values-v16.xml",
+                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fed710bd4fff6292ad2c5e1a910d3450/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/fallenstar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/8ef8be976684ef712d4e596047bb6ffd/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

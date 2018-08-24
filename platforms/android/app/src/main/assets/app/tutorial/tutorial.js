@@ -11,7 +11,7 @@ function onSlideFinished() {
     
     frameModule.topmost().navigate(
         {
-            moduleName: "dashboard/dashboard",
+            moduleName: "settings/settings",
             clearHistory: true,
             animated: true,
             // transition: {
@@ -22,5 +22,6 @@ function onSlideFinished() {
         }
     )
 }
+//"dashboard/dashboard",
 
 exports.onNavigatedTo = onNavigatedTo

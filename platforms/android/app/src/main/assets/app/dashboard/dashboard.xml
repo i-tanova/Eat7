@@ -1,17 +1,38 @@
 <Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoaded" navigatedTo="onNavigatedTo">
     <Page.actionBar>
         <ActionBar title="Eat7" icon="~/images/eat7.jpeg">
-            <NavigationButton text="Back" icon="" tap="" />
             <ActionBar.actionItems>
                 <ActionItem icon="" text="Settings" tap="{{ onSettingsTap }}" ios.position="right" />
+                 <ActionItem tap="{{ onSettingsTap }}"
+      ios.systemIcon="9" ios.position="left"
+      android.systemIcon="ic_menu_share" android.position="actionBar"></ActionItem>
             </ActionBar.actionItems>
         </ActionBar>
     </Page.actionBar>
 
 <StackLayout >
+        <Label text="Hello" /> 
+        <Label text="{{username}}" />
         <Label text="Tap the button to notify of a finished meal"/>
         <Button text="TAP" tap="{{ onTap }}" class="btn btn-primary btn-active"/>
         <Label text="{{ message }}"  textWrap="true"/>
+
+        
+        <Button text="Show statistic" tap="{{ showStatistic }}" class="btn btn-primary btn-active"/>
+
+     
+<ListView style="height: 100%" items="{{ presentEntries }}" id="lv_entries">
+    <ListView.itemTemplate>
+        <!-- The item template can only have a single root view container (e.g. GriLayout, StackLayout, etc.)-->
+        <StackLayout>
+            <Label text="{{ date }}" textWrap="true" />
+        </StackLayout>
+    </ListView.itemTemplate>
+</ListView>      
+
+
     </StackLayout>
+
+     
 
 </Page>

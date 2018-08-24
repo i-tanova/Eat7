@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "567188632467",
+    "firebase_url": "https://eat7-5ce11.firebaseio.com",
+    "project_id": "eat7-5ce11",
+    "storage_bucket": "eat7-5ce11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567188632467:android:593913ba5f89d90d",
+        "android_client_info": {
+          "package_name": "org.nativescript.Eat7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567188632467-9unpb6l08vtru8f64gntl5l6f7vla9qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcBqkWX1CkOql6jQ2RQijIIZAJVKwE_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
